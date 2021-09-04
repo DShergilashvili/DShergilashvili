@@ -69,7 +69,9 @@
 </a> </li>
   <li> <a href="https://davidshergilashvili.space/2021/09/03/c10-format-expression-allowed-for-constant-string/" target="blank">C#10 Format expression allowed for constant string
 </a> </li>
-
+  <li>
+      <a href="https://www.linkedin.com/in/davitshergilashvili/" width="35px" target="blank"><img align="center" src="https://pngimage.net/wp-content/uploads/2018/06/more-icon-png-4.png" width="35px" alt="DShergilashvili" /></a>
+  </li>
  <ul>
 <!-- BLOG-POST-LIST:END -->
 <br>
