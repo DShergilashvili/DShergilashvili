@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, serverless with Azure, AI, Security and etc.**
 - 📝 I regularly write articles on [https://davidshergilashvili.space/](https://davidshergilashvili.space/)
 - 💬 Ask me about **C#, .NET, Microsoft Azure, Fullstack Development, Agile System Development, AI, Security**
-- 📫 How to reach me  **[Linkedin](https://www.linkedin.com/in/davitshergilashvili/)**
 
 <br>
 
