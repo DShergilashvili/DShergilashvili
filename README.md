@@ -38,6 +38,7 @@
 <a href="https://www.credly.com/badges/2d82b03c-e46b-4dd8-84dc-3d1eab7e7d3c" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" width="100px" alt="DShergilashvili" /></a>
 <a href="https://www.credly.com/badges/956f413c-632c-4625-8c23-373f33ab4d9e" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" width="100px" alt="DShergilashvili" /></a>
 <a href="https://www.credential.net/0f892705-06cd-44bb-b2ae-0b377fd10c45#gs.a1a8yn" width="100px" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHsLCrXCVSacA/company-logo_100_100/0/1537995550980?e=1639008000&v=beta&t=UkPi62YoLfUkcg00ZsC2nSx1rgky0lcAzwQLkQawqHQ" width="100px" alt="DShergilashvili" /></a>
+  <a href="https://www.linkedin.com/in/davitshergilashvili/" width="100px" target="blank"><img align="center" src="https://pngimage.net/wp-content/uploads/2018/06/more-icon-png-4.png" width="100px" alt="DShergilashvili" /></a>
 
 <br>
   
