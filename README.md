@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on R&D different projects 
 - 🌱 I’m currently learning **.NET 5,6, Blazor,AI,Security,Serverless with Azure Functions, Microsoft Azure technologies and etc.**
-- 👯 I’m looking to collaborate on **anything about software engineering, cloud engineering with Microsoft Azure, serverless with Azure, AI, Security and etc.**
+- 👯 I’m looking to collaborate on **anything about software engineering/Architecture, cloud engineering with Microsoft Azure, serverless with Azure, AI, Security and etc.**
 - 📝 I regularly write articles on [https://davidshergilashvili.space/](https://davidshergilashvili.space/)
-- 💬 Ask me about **C#, .NET, Microsoft Azure, Fullstack Development, Agile System Development, AI, Security**
+- 💬 Ask me about **C#, .NET, Microsoft Azure, Fullstack Development,Software Architecture, Agile System Development, AI, Security**
 
 <br>
 
