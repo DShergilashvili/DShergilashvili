@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://davidshergilashvili.space/" target="blank"><img src="https://davidshergilashvili.space/wp-content/uploads/2021/09/cropped-1616333234797-1-512x470-1.png" width="150px" alt="jonahandersson" /></a> </p>             
 <p align="center"> <a href="https://ge.linkedin.com/in/davitshergilashvili" target="blank"><img src="https://www.askdavetaylor.com/ezoimgfmt/static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png?ezimgfmt=rs:160x33/rscb8/ng:webp/ngcb8" alt="cjkodare" /></a> </p>
 <p align="center"> 
-<a href="https://www.paypal.me/dshergilashvili/1" target="_blank" rel="noreferrer"><img height='36' style='border:0px;height:36px;' src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Donate David Shergilashvili ia paypal"></a>
+<a href="https://www.paypal.me/dshergilashvili/3" target="_blank" rel="noreferrer"><img height='36' style='border:0px;height:36px;' src="https://cdn.ko-fi.com/cdn/kofi2.png?v=3" alt="Donate David Shergilashvili ia paypal"></a>
 </p>
 <br/>
 
