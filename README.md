@@ -49,10 +49,10 @@
 <img align="center" src="https://cdn.enjinx.io/metadata/raw/cda3d069ee4ad327fa4f8542c00f58ccf092e12d/0713aee5d9dc7d0ba4aeac5726a6e491f8a76acb.jpg?width=600" width="100px" alt="DShergilashvili" />
 </a>
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000047/627?source=EnjinWallet-1.15.0" width="100px" target="blank">
-<img align="center" src="https://cdn.enjinx.io/metadata/raw/cda3d069ee4ad327fa4f8542c00f58ccf092e12d/0713aee5d9dc7d0ba4aeac5726a6e491f8a76acb.jpg?width=600" width="100px" alt="DShergilashvili" />
+<img align="center" src="https://cdn.enjinx.io/metadata/raw/e59a5a86e62c136d1b90ac0c85470d6ec549bf36/47f08e323a0f89813ba967675876799fe6ed4b7f.jpg?width=600" width="100px" alt="DShergilashvili" />
 </a>
 <a href="https://jumpnet.enjinx.io/eth/asset/60c0000000000031/669?source=EnjinWallet-1.15.0" width="100px" target="blank">
-<img align="center" src="https://cdn.enjinx.io/metadata/raw/cda3d069ee4ad327fa4f8542c00f58ccf092e12d/0713aee5d9dc7d0ba4aeac5726a6e491f8a76acb.jpg?width=600" width="100px" alt="DShergilashvili" />
+<img align="center" src="https://cdn.enjinx.io/metadata/raw/d443a65f11fc6bc1b05573e1d611ffc290ca908a/8051bd9f924c8911c95a28a9d5c31a81c28dfd5f.jpg?width=600" width="100px" alt="DShergilashvili" />
 </a>
 <p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
 <br>
