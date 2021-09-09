@@ -60,7 +60,6 @@
   <h3>Recent Blogs Posts </h3> 
   <br>
   
-  #### 📗 Recent blog posts
 <!--START_SECTION:feed-->
 * [App Trimming in .NET 5](https://davidshergilashvili.space/2021/09/06/app-trimming-in-net-5/)
 * [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://davidshergilashvili.space/2021/09/07/custom-model-binding-in-asp-net-6-0-minimal-apis/)
