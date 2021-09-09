@@ -60,18 +60,15 @@
   <h3>Recent Blogs Posts </h3> 
   <br>
   
-<!-- BLOG-POST-LIST:START -->
-<ul>
-  <li> <a href="https://davidshergilashvili.space/2021/09/03/c-10-lambda-improvements/" target="blank">C# 10 Lambda Improvements</a> </li>
-  <li> <a href="https://davidshergilashvili.space/2021/09/03/in-net-5-gcmemoryinfo-has-been-extended-with-a-lot-of-new-properties/" target="blank">In .NET 5, GCMemoryInfo has been extended with a lot of new properties
-</a> </li>
-  <li> <a href="https://davidshergilashvili.space/2021/09/03/c10-format-expression-allowed-for-constant-string/" target="blank">C#10 Format expression allowed for constant string
-</a> </li>
-  <li>
-      <a href="https://www.linkedin.com/in/davitshergilashvili/" width="35px" target="blank"><img align="center" src="https://pngimage.net/wp-content/uploads/2018/06/more-icon-png-4.png" width="35px" alt="DShergilashvili" /></a>
-  </li>
- <ul>
-<!-- BLOG-POST-LIST:END -->
+  #### 📗 Recent blog posts
+<!--START_SECTION:feed-->
+* [App Trimming in .NET 5](https://davidshergilashvili.space/2021/09/06/app-trimming-in-net-5/)
+* [Custom Model Binding in ASP.NET 6.0 Minimal APIs](https://davidshergilashvili.space/2021/09/07/custom-model-binding-in-asp-net-6-0-minimal-apis/)
+* [Automatically find latent bugs in your code with .NET 5](https://davidshergilashvili.space/2021/09/07/automatically-find-latent-bugs-in-your-code-with-net-5/)
+* [C# 10 Add CallerArgumentExpression attribute](https://davidshergilashvili.space/2021/09/08/c-10-add-callerargumentexpression-attribute/)
+* [New Method ArgumentNullException.ThrowIfNull (obj) Added to .NET 6](https://davidshergilashvili.space/2021/09/08/new-method-argumentnullexception-throwifnull-obj-added-to-net-6/)
+<!--END_SECTION:feed-->
+
 <br>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=DShergilashvili&label=Profile%20views&color=0e75b6&style=flat" alt="DShergilashvili" /> </p>
