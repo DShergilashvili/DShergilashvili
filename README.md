@@ -27,6 +27,7 @@
 <h3 align="left">Awards and Certifications</h3>
 <p align="left">
 <a href="https://www.credly.com/badges/ba975695-bc12-490f-892a-c2278352a5f1" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" width="100px" alt="DShergilashvili" /></a>
+<a href="https://www.credly.com/badges/2d82b03c-e46b-4dd8-84dc-3d1eab7e7d3c" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" width="100px" alt="DShergilashvili" /></a>
 <a href="https://www.credly.com/badges/06f39901-b9b2-4922-a489-7d7913a38889" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png" alt="DShergilashvili" width="100px" /></a>
 <a href="https://www.credly.com/badges/9f32953f-8706-414f-b92b-a40e6b702709" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="100px" alt="DShergilashvili" /></a>
 <a href="https://www.credly.com/badges/04d2937b-3c0a-41e5-8280-406a5023e951" width="100px" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="100px" alt="DShergilashvili" /></a>
